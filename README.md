@@ -1,14 +1,14 @@
 
 ________________________________________________
-[0] [1] ****                                                   ****.
-[0] [1] ****       O        0  A       A         M          M  ****.
-[0] [1] ****      O O       O  A      A A        M M      M M  ****.
-[0] [1] ****     O   O      O A      A   A       M M      M M  ****.
-[0] [1] ****    OOOOOOO     0A      AAAAAAA      M   M   M  M  ****.
-[0] [1] ****   O       0    O A    A       A     M     M    M  ****.
-[0] [1] ****  O         O   O  A  A         A    M          M  ****.
-[0] [1] ****   Arbitrary  Kinetic  Algorithm           M       ****.
-[0] [1] ***********************************************************.
+[0]_[1]_****___________________________________________________****.
+[0]_[1]_****_______O________0__A_______A_________M__________M__****.
+[0]_[1]_****______O_O_______O__A______A_A________M_M______M_M__****.
+[0]_[1]_****_____O___O______O_A______A___A_______M_M______M_M__****.
+[0]_[1]_****____OOOOOOO_____0A______AAAAAAA______M___M___M__M__****.
+[0]_[1]_****___O_______0____O_A____A_______A_____M_____M____M__****.
+[0]_[1]_****__O_________O___O__A__A_________A____M__________M__****.
+[0]_[1]_****___Arbitrary__Kinetic__Algorithm___________M_______****.
+[0]_[1]_***********************************************************.
 ________________________________________________
 
 # AKAM
@@ -16,7 +16,7 @@ AKAM is a three-dimensional hybrid PIC–fluid code for multiphysics plasma mode
 
  stack: C++11, MPI, HDF5, python2-3
 
-**Paper reference:** [Andrey Sladkov, *Hybrid PIC-fluid model for numerical simulation of laser-plasma interaction*, 2026]
+**Paper reference:** [Andrey Sladkov, *Hybrid PIC-fluid model for numerical simulation of laser-plasma interaction*, 2026. (https://arxiv.org/abs/2601.01633)] 
 
 
 _______________________
